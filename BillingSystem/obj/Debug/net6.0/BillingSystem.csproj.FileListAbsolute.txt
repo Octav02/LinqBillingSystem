@@ -1,0 +1,15 @@
+/home/octav/RiderProjects/BillingSystem/BillingSystem/bin/Debug/net6.0/BillingSystem
+/home/octav/RiderProjects/BillingSystem/BillingSystem/bin/Debug/net6.0/BillingSystem.deps.json
+/home/octav/RiderProjects/BillingSystem/BillingSystem/bin/Debug/net6.0/BillingSystem.runtimeconfig.json
+/home/octav/RiderProjects/BillingSystem/BillingSystem/bin/Debug/net6.0/BillingSystem.dll
+/home/octav/RiderProjects/BillingSystem/BillingSystem/bin/Debug/net6.0/ref/BillingSystem.dll
+/home/octav/RiderProjects/BillingSystem/BillingSystem/bin/Debug/net6.0/BillingSystem.pdb
+/home/octav/RiderProjects/BillingSystem/BillingSystem/obj/Debug/net6.0/BillingSystem.csproj.AssemblyReference.cache
+/home/octav/RiderProjects/BillingSystem/BillingSystem/obj/Debug/net6.0/BillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/octav/RiderProjects/BillingSystem/BillingSystem/obj/Debug/net6.0/BillingSystem.AssemblyInfoInputs.cache
+/home/octav/RiderProjects/BillingSystem/BillingSystem/obj/Debug/net6.0/BillingSystem.AssemblyInfo.cs
+/home/octav/RiderProjects/BillingSystem/BillingSystem/obj/Debug/net6.0/BillingSystem.csproj.CoreCompileInputs.cache
+/home/octav/RiderProjects/BillingSystem/BillingSystem/obj/Debug/net6.0/BillingSystem.dll
+/home/octav/RiderProjects/BillingSystem/BillingSystem/obj/Debug/net6.0/ref/BillingSystem.dll
+/home/octav/RiderProjects/BillingSystem/BillingSystem/obj/Debug/net6.0/BillingSystem.pdb
+/home/octav/RiderProjects/BillingSystem/BillingSystem/obj/Debug/net6.0/BillingSystem.genruntimeconfig.cache
